@@ -48,3 +48,39 @@ header{
     font-weight: bold;
 
 }
+
+/* welcome section styles  */
+.welcome{
+    text-align: left;
+    background: 
+    linear-gradient(to right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)),
+    url("../images/pic/Vectorrr.png");
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    margin-top: 100px;
+    border-radius: 20px;
+}
+
+.welcome-content{
+    color: white;
+    text-align: left;
+    padding-left: 100px;
+    padding-top:150px
+}
+
+.welcome-content h1{
+    font-size: 64px;
+    font-weight: 700;
+}
+.welcome-content p{
+    font-size: 18px;
+    font-weight: 600px;
+}
+.welcome-content h5{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+

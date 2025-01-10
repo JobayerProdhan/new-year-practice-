@@ -115,3 +115,49 @@ header{
     font-size:20px;
     font-weight: bold;
 }
+
+/* coming soon styles */
+.coming-soon{
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-evenly;
+    margin-top:150px ;
+    width: 1320px;
+    height: 470px;
+    
+}
+.coming-soon-content1{
+    height: 200px;
+    width: 250px;
+}
+
+.coming-soon-content1 h5{
+    color: red;
+    font-weight: 700;
+    font-size: 25px;    
+}
+
+.coming-soon-content1 h2{
+    font-weight: 800;
+    font-size: 50px;
+}
+.coming-soon-content1 p{
+    font-style: 20px;
+}
+
+.coming-soon-img{
+    padding: 20px;
+    border: 15px solid red;
+    border-radius: 250px;
+    height: 360px;
+    margin-left: 40px;
+}
+.coming-soon-content2{
+    margin-left: 50px;
+    width: 200px;
+}
+.coming-soon-content2 h1{
+    color: red;
+    font-size: 50px;
+    font-weight: bold;
+}
